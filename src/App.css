@@ -3,6 +3,7 @@
 }
 
 .App-logo {
+  background-image: url(/public/GLIT.png);
   height: 40vmin;
   pointer-events: none;
 }
